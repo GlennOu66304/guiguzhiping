@@ -1,0 +1,53 @@
+.goback {
+  margin-top: 30px;
+  width: 100px;
+  height: 30px;
+  padding-top: 10px;
+  padding-left: 30px;
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+.guide-text2 {
+  padding-top: 60px;
+  width: 300px;
+  /* background-color: green; */
+  margin-left: 400px;
+  margin-right: 200px;
+}
+
+.create-ticket {
+  margin-top: 30px;
+  align-items: center;
+  width: 350px;
+  height: 350px;
+  /* background-color: rgb(238, 238, 238); */
+  margin-left: 350px;
+  margin-right: 200px;
+}
+/* label {
+  margin-left: 30px;
+} */
+.form-group2 {
+  margin-top: 5px;
+  margin-bottom:5px;
+  margin-left: 40px;
+}
+.Input {
+  width: 260px;
+  height: 20px;
+  outline: none;
+}
+.ticket-create-button {
+  margin-top: 20px;
+  width: 270px;
+  height: 30px;
+  background-color: black;
+  text-align: center;
+  margin-left: 40px;
+  margin-bottom: 10px;
+  color: white;
+  border: 2px solid black;
+  cursor: pointer;
+}

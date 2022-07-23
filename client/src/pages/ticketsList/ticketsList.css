@@ -1,0 +1,44 @@
+.title {
+  width: 400px;
+  height: 30px;
+  background-color: white;
+  text-align: center;
+  margin-left: 300px;
+}
+
+.goback {
+  margin-top: 30px;
+  width: 100px;
+  height: 30px;
+  padding-top: 10px;
+  padding-left: 30px;
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+.sections-name {
+  width: 600px;
+  height: 30px;
+  background-color: #eeeeee;
+  margin-left: 200px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+.date {
+  margin-top:5px;
+  margin-left: 10px;
+ float: left;
+}
+
+.desc {
+  margin-top:5px;
+  margin-left: 10px;
+}
+
+.status {
+  margin-top:5px;
+  margin-right: 10px;
+  float:right
+}

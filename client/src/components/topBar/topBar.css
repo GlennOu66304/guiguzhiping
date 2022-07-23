@@ -1,0 +1,63 @@
+.topbarContainer {
+  height: 50px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+
+  top: 0;
+  z-index: 999;
+  /* background-color:yellow; */
+}
+
+.topbarLeft {
+  flex: 3;
+}
+
+.logo {
+  font-size: 24px;
+  margin-left: 20px;
+  font-weight: bold;
+  color: black;
+  cursor: pointer;
+}
+
+.topbarRight {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: black;
+  /* background-color:green; */
+  margin-right: 100px;
+  height: 50px;
+}
+/* .topbarLink {
+  margin-left: 10px;
+  font-size: 10px;
+  cursor: pointer;
+}
+.topbarIcons {
+  display: flex;
+} */
+
+.topbarIconItem {
+  margin-right: 15px;
+  cursor: pointer;
+  position: relative;
+}
+.logout {
+  padding-left: 20px;
+  padding-top: 10px;
+  height: 50px;
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  background-color: #030304;
+  color: white;
+  border-radius: 5px;
+}
+
+
+span {
+  cursor: pointer;
+}

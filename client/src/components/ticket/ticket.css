@@ -1,0 +1,37 @@
+.ticket {
+  width: 600px;
+  height: 30px;
+  background-color: #eeeeee;
+  margin-left: 200px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.date {
+  margin-top:5px;
+  float: left;
+}
+
+.desc2 {
+  margin-top:5px;
+
+  margin-right:100px;
+}
+
+.status2 {
+  margin-top:5px;
+  margin-right: 10px;
+  background-color: green;
+  color: white;
+}
+
+.view-details {
+  
+  margin-right: 10px;
+  float: right;
+  /* background-color: white; */
+  color: black;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
